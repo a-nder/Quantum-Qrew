@@ -4,7 +4,7 @@ $pages = [
     'experience.php' => 'Gain Work Experience',
     'skills.php' => 'Practical Skills',
     'guidance.php' => 'Career Guidance',
-    'resources.php' => 'Access Employment Resources'
+    'resource.php' => 'Access Employment Resources'
 ];
 $current_page = basename($_SERVER['PHP_SELF']);
 ?>
@@ -14,7 +14,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quantum Link - <?php echo $pages[$current_page] ?? 'Welcome'; ?></title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/css.css">
 </head>
 <body>
     <header class="main-header">

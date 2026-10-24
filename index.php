@@ -33,7 +33,7 @@
     <div id="resources" class="tab-content">
         <h2>Access Employment Resources</h2>
         <p>Download proven application templates, optimize your CV, and tap into an exclusive hidden job market.</p>
-        <br><a href="resources.php" style="color:#38bdf8; font-weight:bold;">Explore Full Page &rarr;</a>
+        <br><a href="resource.php" style="color:#38bdf8; font-weight:bold;">Explore Full Page &rarr;</a>
     </div>
 </section>
 <?php include 'includes/footer.php'; ?>
