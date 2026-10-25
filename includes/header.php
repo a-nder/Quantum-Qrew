@@ -4,7 +4,7 @@ $pages = [
     'experience.php' => 'Gain Work Experience',
     'skills.php' => 'Practical Skills',
     'guidance.php' => 'Career Guidance',
-    'resource.php' => 'Access Employment Resources'
+    'resources.php' => 'Access Employment Resources'
 ];
 $current_page = basename($_SERVER['PHP_SELF']);
 ?>
